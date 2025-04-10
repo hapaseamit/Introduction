@@ -10,7 +10,8 @@ public class CoreJavaBrushup1 {
 		// hello
 		
 		//Varibles and Data Types
-		int myNum =5;             
+		int abc =5;             
+		//kjhdhj
 		String website = "Suchitra Hapase";
 		char ch = 'r';
 		double dec = 5.99;
