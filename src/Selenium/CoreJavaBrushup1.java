@@ -7,6 +7,7 @@ public class CoreJavaBrushup1 {
 		
 		//Varibles and Data Types, Arrays for int and string, for loop, enhanced for loop, 
 		
+		// hello
 		
 		//Varibles and Data Types
 		int myNum =5;             
